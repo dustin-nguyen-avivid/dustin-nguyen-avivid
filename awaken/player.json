@@ -2,7 +2,7 @@
   "login": "dustin-nguyen-avivid",
   "level": 1,
   "overall": "E",
-  "overallPercentile": 0.029998231600189742,
+  "overallPercentile": 0.031058998318890453,
   "layout": "default",
   "class": {
     "name": "Novice",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 2,
+      "value": 3,
       "rank": "E",
-      "percentile": 0.06912665605202337
+      "percentile": 0.08369112026801168
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "unbroken",
@@ -138,7 +138,7 @@
     {
       "id": "berserker",
       "tier": 0,
-      "value": 3
+      "value": 4
     },
     {
       "id": "diligent",
@@ -192,5 +192,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-09T10:56:59.044Z"
+  "syncedAt": "2026-10-09T10:59:08.567Z"
 }
