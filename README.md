@@ -24,7 +24,7 @@
 
 <p align="center">
 <img src="awaken/oracle-dark.svg" width="49%" alt="dustin-nguyen-avivid: oracle scroll">
-<img src="awaken/daily-dark.svg" width="49%" alt="dustin-nguyen-avivid: daily quest">
+<img src="awaken/daily-dark.svg" width="49%" alt="dustin-nguyen-avivid: penalty zone">
 </p>
 
 <p align="center">
